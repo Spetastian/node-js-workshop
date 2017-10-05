@@ -1,0 +1,29 @@
+{
+  "name": "js-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1step4": "node 1-getting-started-with-nodejs/4-using-express.js",
+    "1workshop": "DEBUG=express-app:* 1-getting-started-with-nodejs/workshop/express-app/bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spetastian/node-js-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spetastian/node-js-workshop/issues"
+  },
+  "homepage": "https://github.com/Spetastian/node-js-workshop#readme",
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "pug": "2.0.0-beta11",
+    "serve-favicon": "~2.4.5"
+  }
+}
