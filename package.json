@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "1.4": "node 1-getting-started-with-nodejs/4-using-express.js",
+    "1.4": "node 1-getting-started-with-nodejs/4-modules.js",
+    "1.5": "node 1-getting-started-with-nodejs/5-using-express.js",
     "2.2": "node 2-modern-javascript/2-let-const.js",
     "2.3": "node 2-modern-javascript/3-classes.js",
     "2.4": "node 2-modern-javascript/4-arrow-functions.js",
