@@ -5,11 +5,12 @@
   "main": "index.js",
   "scripts": {
     "1.4": "node 1-getting-started-with-nodejs/4-modules.js",
+    "1workshop": "DEBUG=express-app:* 1-getting-started-with-nodejs/workshop/express-app/bin/www",
     "1.5": "node 1-getting-started-with-nodejs/5-using-express.js",
     "2.2": "node 2-modern-javascript/2-let-const.js",
     "2.3": "node 2-modern-javascript/3-classes.js",
     "2.4": "node 2-modern-javascript/4-arrow-functions.js",
-    "1workshop": "DEBUG=express-app:* 1-getting-started-with-nodejs/workshop/express-app/bin/www"
+    "2.5": "node 2-modern-javascript/5-destructuring.js"
   },
   "repository": {
     "type": "git",
